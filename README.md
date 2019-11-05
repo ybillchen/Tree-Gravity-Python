@@ -16,8 +16,8 @@ You can adjust paramaters in main.py simply by changing the default values.
 
 Enjoy your time with Quad-tree and Python! Suggestions and adjustments (as well as STARs) are welcomed.
 
-A detailed introduction of Simulating 2D Ising Model is uploaded on ZHIHU. It is a Chinese version,  [click here](https://zhuanlan.zhihu.com/p/42629484) to view. 
+A detailed introduction of Simulating 2D Ising Model is uploaded on ZHIHU. It is a Chinese version,  [click here](https://zhuanlan.zhihu.com/p/90093326) to view. 
 
 Note: You'll probably need numpy and matplotlib.
 
-Created Nov. 4, 2019 by Bill in Beijing
+Created Nov. 5, 2019 by Bill in Beijing
